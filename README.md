@@ -1,1 +1,1 @@
-
+Presolved sample architecture
