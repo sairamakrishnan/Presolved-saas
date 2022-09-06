@@ -6,10 +6,6 @@
 ## https://catalog.us-east-1.prod.workshops.aws/workshops/b0c6ad36-0a4b-45d8-856b-8a64f0ac76bb/en-US/cleanup
 ##
 ## Note that this script can also be used to clean up resources for the
-## Serverless SaaS Reference Solution as outlined here:
-## https://github.com/aws-samples/aws-saas-factory-ref-solution-serverless-saas#steps-to-clean-up
-##
-##
 
 # helper function
 delete_stack_after_confirming() {
